@@ -8,3 +8,6 @@ https://replit.com/@PhilipLarson/QuixoticLameDrivers#main.py
 
 Day 3:
 https://replit.com/@PhilipLarson/CuddlyUnsungGnudebugger#main.py
+
+Day 4:
+https://replit.com/@PhilipLarson/WarpedSeparateNumericalanalysis#main.py
